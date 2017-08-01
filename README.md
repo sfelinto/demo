@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-Just something go on
+Just something go on.
